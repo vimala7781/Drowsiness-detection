@@ -1,0 +1,2 @@
+# my-repo
+The drowsiness detection system detects the driver's eyes and constantly checks whether the eyes are open or close, if the person closes his/her eyes for more than 2 seconds the system alerts the driver by playing an alarm sound. This project is developed using OpenCV for video capturing and the model is trained with an open eye and close eye images, it uses CNN for image processing. The accuracy of the model is about 96%.
